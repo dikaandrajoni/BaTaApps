@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_white_24dp"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_list"
+        android:title="List"
+        android:icon="@drawable/ic_list"/>
+    <item
+        android:id="@+id/navigation_upload"
+        android:title="Upload"
+        android:icon="@drawable/ic_attach_white"/>
+
+
+    <item
+        android:id="@+id/navigation_login"
+        android:icon="@drawable/ic_boy"
+        android:title="Login" />
+
+</menu>
